@@ -1,0 +1,102 @@
+[
+    {
+        "model": "2021 BMW G82 M4 Competition",
+        "driveTrain": "X-Drive",
+        "mileage": "45,358",
+        "price": "62,000",
+        "type": "coupe",
+        "imageURL": "https://www.motortrend.com/uploads/2022/02/2021-BMW-M4-6M-PVOTY22-20.jpg",
+        "imageURL2": "",
+        "imageURL3": ""
+    },
+    {
+        "model": "2024 BMW M3 Competition",
+        "driveTrain": "X-Drive",
+        "mileage": "32,220",
+        "price": "95,000",
+        "type": "sedan",
+        "imageURL": "https://media.ed.edmunds-media.com/bmw/m3/2022/oem/2022_bmw_m3_sedan_competition_fq_oem_1_1600.jpg",
+        "imageURL2": "",
+        "imageURL3": ""
+    },
+    {
+        "model":"2021 Mercedes AMG C63",
+        "driveTrain": "4Matic",
+        "mileage": "20,000",
+        "price": "60,000",
+        "type": "coupe",
+        "imageURL": "https://media-r2.carsandbids.com/cdn-cgi/image/width=2080,quality=70/d32c8dde23a1411d0ef2e05bea168897e96c369b/photos/3z8zvW6J-Z45I1UwUPH-(edit).jpg?t=170672405965",
+        "imageURL2": "",
+        "imageURL3": ""
+    },
+    {
+        "model":"2024 Lamborghini Revuelto",
+        "driveTrain": "AWD",
+        "mileage": "2,000",
+        "price": "600,000",
+        "type": "coupe",
+        "imageURL": "https://media.wired.com/photos/6423826d7f6ce88e606d7b55/16:9/w_1900,h_1069,c_limit/Lamborghini-Revuelto-Featured-Gear.jpg",
+        "imageURL2": "",
+        "imageURL3": ""
+    },
+    {
+        "model":"2014 Lamborghini Aventador LP700-4",
+        "driveTrain": "AWD",
+        "mileage": "20,000",
+        "price": "250,000",
+        "type": "coupe",
+        "imageURL": "https://www.motortrend.com/uploads/sites/5/2011/05/2012-lamborghini-aventador-LP-700-4-promo.jpg",
+        "imageURL2": "",
+        "imageURL3": ""
+    },
+    {
+        "model":"2021 Ferarri 812 superfast",
+        "driveTrain": "AWD",
+        "mileage": "20,000",
+        "price": "250,000",
+        "type": "coupe",
+        "imageURL": "https://hips.hearstapps.com/hmg-prod/images/2018-ferrari-812-superfast-99leadgallery-1534888079.jpg?crop=0.875xw:0.803xh;0.112xw,0.138xh&resize=2048:*",
+        "imageURL2": "",
+        "imageURL3": ""
+    },
+    {
+        "model":"2025 Mercedes Benz E53 AMG",
+        "driveTrain": "4-Matic",
+        "mileage": "10,000",
+        "price": "100,000",
+        "type": "Sedan",
+        "imageURL": "/vehicleImages/e53_1.jpg",
+        "imageURL2": "/vehicleImages/e53_2.jpg",
+        "imageURL3": "/vehicleImages/e53_3.jpg"
+    },
+    {
+        "model":"2021 BMW M3",
+        "driveTrain": "Rear",
+        "mileage": "20,000",
+        "price": "100,000",
+        "type": "Sedan",
+        "imageURL": "/vehicleImages/M3_1.jpg",
+        "imageURL2": "/vehicleImages/M3_2.jpg",
+        "imageURL3": "/vehicleImages/M3_3.jpg"
+    },
+    {
+        "model":"2025 BMW M4 Competition",
+        "driveTrain": "Rear",
+        "mileage": "20,000",
+        "price": "100,000",
+        "type": "Coupe Convertible",
+        "imageURL": "/vehicleImages/M4_1.jpg",
+        "imageURL2": "/vehicleImages/M4_2.jpg",
+        "imageURL3": "/vehicleImages/M4_3.jpg"
+    },
+    {
+        "model":"2025 BMW M850i Competition",
+        "driveTrain": "Rear",
+        "mileage": "20,000",
+        "price": "100,000",
+        "type": "Coupe Convertible",
+        "imageURL": "/vehicleImages/m850i_1.jpg",
+        "imageURL2": "/vehicleImages/m850i_2.jpg",
+        "imageURL3": ""
+    }
+]

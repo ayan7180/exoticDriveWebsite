@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "681aa150f6b64e37134a4f95"
+  },
+  "name": "Ayan Asim",
+  "email": "ayan7180@iastate.edu",
+  "phone": "6302462015",
+  "password": "Ayan1234"
+},
+{
+  "_id": {
+    "$oid": "681aa2a11ab85cc3343e4606"
+  },
+  "name": "AYAN ASIM",
+  "email": "ayanasim09@gmail.com",
+  "phone": "6304632015",
+  "password": "12345"
+},
+{
+  "_id": {
+    "$oid": "681aa4a02706fea64805b845"
+  },
+  "name": "AYAN ASIM",
+  "email": "ayanasim09@gmail.com",
+  "phone": "6304632015",
+  "password": "12345"
+}]
